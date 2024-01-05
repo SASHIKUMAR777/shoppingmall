@@ -1,0 +1,10 @@
+{
+    "products": [
+      { "title": "Product 1", "price": "$99.99", "image": "https://rukminim2.flixcart.com/image/832/832/kwmfqfk0/shoe/m/r/c/7-m7-22509-zebra-olive-big-black-m7-by-metronaut-zebra-olive-big-original-imag99cr3rgha968.jpeg?q=70" },
+      { "title": "Product 2", "price": "$89.99", "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/9/e/4/-original-imagtcrumzbqj4xd.jpeg?q=70" },
+      { "title": "Product 2", "price": "$89.99", "image": "https://rukminim2.flixcart.com/image/832/832/kvba7bk0/sweatshirt/w/p/t/l-rhe0215-red-tape-original-imag88pfbs4wkw9d.jpeg?q=70" },    
+      { "title": "Product 1", "price": "$99.99", "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/m/o/edge-40-pay40030in-motorola-original-imagpqzchzhg6fex.jpeg?q=70" },
+      { "title": "Product 2", "price": "$89.99", "image": "https://rukminim2.flixcart.com/image/416/416/ksnjp8w0/mobile/f/k/y/galaxy-z-flip3-5g-sm-f711bzkainu-samsung-original-imag662axn2xmght.jpeg?q=70" },
+      { "title": "Product 2", "price": "$89.99", "image": "https://rukminim2.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70" }
+    ]
+  }

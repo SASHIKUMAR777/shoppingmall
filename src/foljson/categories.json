@@ -1,0 +1,157 @@
+{
+    "categories": [
+     
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "subsubcategories": [
+              { "name": "Android" },
+              { "name": "iOS" }
+            ]
+          },
+          {
+            "name": "Laptops",
+            "subsubcategories": [
+              { "name": "Windows" },
+              { "name": "Mac" }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+/* src/components/Header.css */
+.header-container {
+    padding: 16px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    margin-right: 20px;
+  }
+  
+  .search-bar {
+    flex-grow: 1;
+  }
+
+  /* src/components/ExpandableDropdown.css */
+.expandable-dropdown {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .subcategories {
+    margin-left: 20px;
+  }
+/* src/components/CategoryList.css */
+.category-list-container {
+    padding: 16px;
+  }
+    
